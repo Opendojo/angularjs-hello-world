@@ -9,7 +9,7 @@ exports.config = {
     'browserName': 'chrome'
   },
 
-  baseUrl: 'http://localhost:8000/app/',
+  baseUrl: 'http://github.local.opendojo.org/Opendojo/angularjs-hello-world/app/',
 
   framework: 'jasmine',
 
